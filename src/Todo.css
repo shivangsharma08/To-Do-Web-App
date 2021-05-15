@@ -1,0 +1,17 @@
+.todo_list {
+  text-align: center;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+.todo_icons {
+  cursor: pointer;
+}
+
+.todo_icons:hover {
+  color: royalblue;
+}
+
+.todo_icons1:hover {
+  cursor: pointer;
+  color: red;
+}
